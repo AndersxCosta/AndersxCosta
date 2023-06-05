@@ -1,16 +1,52 @@
-### Hi there 👋
 
-<!--
-**AndersxCosta/AndersxCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Anderson da Costa 🤙
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas Redes Sociais!
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anderxcosta?igshid=MzNlNGNkZWQ4Mg==)
+[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-costa-b61140230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3AkEITA9SqW3fgYLtCKBqg%3D%3D)
+
+#
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersxCosta&show_icons=true&theme=dracula)
+
+#
+
+### Tecnologias que eu uso no meu dia a dia💾
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+#
+Desenvolvedor em desenvolvimento 🔥😀
+#
+
+### Hi! I'm Anderson da Costa 🤙
+
+#
+
+### My Social Midias!
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anderxcosta?igshid=MzNlNGNkZWQ4Mg==)
+[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-costa-b61140230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3AkEITA9SqW3fgYLtCKBqg%3D%3D)
+
+#
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersxCosta&show_icons=true&theme=dracula)
+
+#
+
+### Day to day Technologies 💾
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+#
+
+Dev in developing 🔥😀
