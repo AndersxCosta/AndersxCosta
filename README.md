@@ -7,6 +7,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anderxcosta?igshid=MzNlNGNkZWQ4Mg==)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-costa-b61140230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3AkEITA9SqW3fgYLtCKBqg%3D%3D)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 #
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersxCosta&show_icons=true&theme=dracula)
@@ -34,8 +35,7 @@ Desenvolvedor em desenvolvimento 🔥😀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anderxcosta?igshid=MzNlNGNkZWQ4Mg==)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-costa-b61140230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3AkEITA9SqW3fgYLtCKBqg%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anders9ncosta@gmail.com
-)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 #
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersxCosta&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersxCosta&show_icons=true&theme=dracula)](https://github.com/AndersxCosta/github-readme-stats)
